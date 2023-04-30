@@ -1,2 +1,2 @@
-# Magic-Localization
-The Magic Localization Initiative.
+## ✨ The Magic Localization Initiative
+Hello! And welcome to the Magic Localization Initiative official repository.
