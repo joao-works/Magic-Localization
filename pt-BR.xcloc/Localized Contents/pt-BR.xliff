@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Magic/Localization/en.lproj/Localizable.strings" source-language="en" target-language="pt-BR" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300b"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@%" xml:space="preserve">
+        <source>%1$@%2$</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New project" xml:space="preserve">
+        <source>New project</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Recent projects" xml:space="preserve">
+        <source>Recent projects</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="about" xml:space="preserve">
+        <source>About %@</source>
+        <target>Sobre o %@</target>
+        <note>The %@ placeholder is the app's name eg. "About Magic"</note>
+      </trans-unit>
+      <trans-unit id="about-acknowledgements" xml:space="preserve">
+        <source>Acknowledgements</source>
+        <target>Agradecimentos</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="about-made" xml:space="preserve">
+        <source>made with 💜 by %@</source>
+        <target>feito com 💜 por %@</target>
+        <note>The %@ placeholder is the developer's name eg. "João Gabriel"</note>
+      </trans-unit>
+      <trans-unit id="about-privacy-policy" xml:space="preserve">
+        <source>Privacy policy</source>
+        <target>Política de privacidade</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="about-terms-of-use" xml:space="preserve">
+        <source>Terms of use</source>
+        <target>Termos de uso</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="about-twitter" xml:space="preserve">
+        <source>Twitter</source>
+        <target>Twitter</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="about-website" xml:space="preserve">
+        <source>Website</source>
+        <target>Website</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="acknowledgements" xml:space="preserve">
+        <source>Acknowledgements</source>
+        <target>Agradecimentos</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="action-add" xml:space="preserve">
+        <source>add %@</source>
+        <target>adicionar %@</target>
+        <note>The %@ placeholder is the selected layer mode eg. "add page"</note>
+      </trans-unit>
+      <trans-unit id="action-clear" xml:space="preserve">
+        <source>clear</source>
+        <target>limpar quadro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="action-delete" xml:space="preserve">
+        <source>delete %@</source>
+        <target>remover %@</target>
+        <note>The %@ placeholder is the selected layer mode eg. "delete page"</note>
+      </trans-unit>
+      <trans-unit id="action-hide" xml:space="preserve">
+        <source>hide %@</source>
+        <target>ocultar %@</target>
+        <note>The %@ placeholder is the selected layer mode eg. "hide page"</note>
+      </trans-unit>
+      <trans-unit id="action-move" xml:space="preserve">
+        <source>move %@</source>
+        <target>mover %@</target>
+        <note>The %@ placeholder is the selected layer mode eg. "move page"</note>
+      </trans-unit>
+      <trans-unit id="action-show" xml:space="preserve">
+        <source>show %@</source>
+        <target>exibir %@</target>
+        <note>The %@ placeholder is the selected layer mode eg. "show page"</note>
+      </trans-unit>
+      <trans-unit id="action-stroke" xml:space="preserve">
+        <source>stroke</source>
+        <target>traçar</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="alert-confirmation" xml:space="preserve">
+        <source>Are you sure?</source>
+        <target>Tem certeza?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="alert-confirmation-confirm" xml:space="preserve">
+        <source>Yes</source>
+        <target>Sim</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="alert-confirmation-description" xml:space="preserve">
+        <source>This action can't be undone.</source>
+        <target>Essa ação não pode ser desfeita.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="background-style-dots" xml:space="preserve">
+        <source>Dots</source>
+        <target>Pontinhos</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="background-style-lines" xml:space="preserve">
+        <source>Lines</source>
+        <target>Linhas</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="background-style-magic" xml:space="preserve">
+        <source>Magic</source>
+        <target>Magic</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="background-style-scale" xml:space="preserve">
+        <source>Scale</source>
+        <target>Escala</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="background-style-squares" xml:space="preserve">
+        <source>Squares</source>
+        <target>Quadrados</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-adjective-1" xml:space="preserve">
+        <source>Unlimited</source>
+        <target>Ilimitado(a)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-adjective-2" xml:space="preserve">
+        <source>Talented</source>
+        <target>Talentoso(a)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-adjective-3" xml:space="preserve">
+        <source>Inventive</source>
+        <target>Inventivo(a)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-adjective-4" xml:space="preserve">
+        <source>Supreme</source>
+        <target>Supremo(a)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-adjective-5" xml:space="preserve">
+        <source>Fearless</source>
+        <target>Destemido(a)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-adjective-6" xml:space="preserve">
+        <source>Valorous</source>
+        <target>Valoroso(a)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-adjective-7" xml:space="preserve">
+        <source>Spirited</source>
+        <target>Animado(a)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-appearance-dark" xml:space="preserve">
+        <source>Dark</source>
+        <target>Escuro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-appearance-light" xml:space="preserve">
+        <source>Light</source>
+        <target>Claro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-gift-description" xml:space="preserve">
+        <source>As a gift, here's a special member badge that you can customize and share</source>
+        <target>Como presente, aqui está um emblema especial de membro que você pode personalizar e compartilhar</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-name-field" xml:space="preserve">
+        <source>Name</source>
+        <target>Nome</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-randomize" xml:space="preserve">
+        <source>Randomize</source>
+        <target>Aleatório</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-save" xml:space="preserve">
+        <source>Save</source>
+        <target>Salvar</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-save-message" xml:space="preserve">
+        <source>To save your badge, just capture this window with ⇧⌘5</source>
+        <target>Para salvar seu emblema, capture esta janela com ⇧⌘5</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-title-1" xml:space="preserve">
+        <source>User</source>
+        <target>Usuário(a)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-title-2" xml:space="preserve">
+        <source>Master</source>
+        <target>Mestre</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-title-3" xml:space="preserve">
+        <source>Champion</source>
+        <target>Campeão(ã)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-title-4" xml:space="preserve">
+        <source>Advocate</source>
+        <target>Querido(a)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-title-5" xml:space="preserve">
+        <source>Creator</source>
+        <target>Criador(a)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-title-6" xml:space="preserve">
+        <source>Genius</source>
+        <target>Artista</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="badge-title-format" xml:space="preserve">
+        <source>%1$@ %2$@</source>
+        <target>%2$@ %1$@</target>
+        <note>This is for the order of the adjective and noun in badge titles. %1$@ will be replaced with the adjective and %2$@ with the noun.</note>
+      </trans-unit>
+      <trans-unit id="brush-opacity" xml:space="preserve">
+        <source>opacity</source>
+        <target>Opacidade</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-options" xml:space="preserve">
+        <source>Brush options</source>
+        <target>Opções de pincel</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-size" xml:space="preserve">
+        <source>Size</source>
+        <target>Tamanho</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-size-pressure-variation" xml:space="preserve">
+        <source>Pressure variation</source>
+        <target>Variação por pressão</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-size-size" xml:space="preserve">
+        <source>Brush size</source>
+        <target>Tamanho do pincel</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style" xml:space="preserve">
+        <source>Style</source>
+        <target>Estilo</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-color" xml:space="preserve">
+        <source>Color</source>
+        <target>Cor</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient" xml:space="preserve">
+        <source>Gradient</source>
+        <target>Degradê</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-custom" xml:space="preserve">
+        <source>Custom gradient</source>
+        <target>Degradê customizado</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-delete" xml:space="preserve">
+        <source>Delete gradient</source>
+        <target>Remover degradê</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-delete-point" xml:space="preserve">
+        <source>Delete point</source>
+        <target>Remover ponto</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-empty" xml:space="preserve">
+        <source>There are no saved gradients</source>
+        <target>Não há degradês salvos</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-instructions" xml:space="preserve">
+        <source>press + to save a gradient</source>
+        <target>pressione + para salvar um degradê</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-name" xml:space="preserve">
+        <source>Name</source>
+        <target>Nome</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-save" xml:space="preserve">
+        <source>Save gradient</source>
+        <target>Salvar degradê</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-saved" xml:space="preserve">
+        <source>Saved</source>
+        <target>Salvos</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-scale" xml:space="preserve">
+        <source>Scale</source>
+        <target>Escala</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-style" xml:space="preserve">
+        <source>Style</source>
+        <target>Estilo</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-style-interpolated" xml:space="preserve">
+        <source>Interpolated</source>
+        <target>Interpolado</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-style-interpolated-description" xml:space="preserve">
+        <source>This option makes the gradient interpolate to the start when it ends.</source>
+        <target>Essa opção faz o final do degradê interpolar para o começo ao terminar.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-style-overlaid" xml:space="preserve">
+        <source>Overlaid</source>
+        <target>Sobreposto</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-style-overlaid-description" xml:space="preserve">
+        <source>This option makes the gradient overlay itself when it ends.</source>
+        <target>Essa opção faz o degradê se sobrepor ao terminar.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-style-reversible" xml:space="preserve">
+        <source>Reversible</source>
+        <target>Reversível</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-style-reversible-description" xml:space="preserve">
+        <source>This option makes the gradient reverse automatically when it ends.</source>
+        <target>Essa opção faz o degradê reverter automaticamente ao terminar.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-style-gradient-update" xml:space="preserve">
+        <source>Update gradient</source>
+        <target>Atualizar degradê</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-type" xml:space="preserve">
+        <source>Type</source>
+        <target>Tipo</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-type-eraser" xml:space="preserve">
+        <source>Eraser</source>
+        <target>Borracha</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="brush-type-pencil" xml:space="preserve">
+        <source>Pencil</source>
+        <target>Lápis</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="canvas-frame-drawing" xml:space="preserve">
+        <source>Drawing</source>
+        <target>Desenhando</target>
+        <note>Canvas frame</note>
+      </trans-unit>
+      <trans-unit id="canvas-frame-press-to-exit" xml:space="preserve">
+        <source>Press %@ to exit</source>
+        <target>Pressione %@ para sair</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="cleared-title" xml:space="preserve">
+        <source>Cleared.</source>
+        <target>Quadro limpo.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-black" xml:space="preserve">
+        <source>Black</source>
+        <target>Preto</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-blue" xml:space="preserve">
+        <source>Blue</source>
+        <target>Azul</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-brown" xml:space="preserve">
+        <source>Brown</source>
+        <target>Marrom</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-custom" xml:space="preserve">
+        <source>Custom color</source>
+        <target>Cor customizada</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="color-dark-gray" xml:space="preserve">
+        <source>Dark Gray</source>
+        <target>Cinza escuro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-darker-gray" xml:space="preserve">
+        <source>Darker Gray</source>
+        <target>Cinza mais escuro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-green" xml:space="preserve">
+        <source>Green</source>
+        <target>Verde</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-light-gray" xml:space="preserve">
+        <source>Light Gray</source>
+        <target>Cinza claro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-lighter-gray" xml:space="preserve">
+        <source>Lighter Gray</source>
+        <target>Cinza mais claro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-magic-green" xml:space="preserve">
+        <source>Magic Green</source>
+        <target>Verde Magic</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-magic-pink" xml:space="preserve">
+        <source>Magic Pink</source>
+        <target>Rosa Magic</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-magic-purple" xml:space="preserve">
+        <source>Magic Purple</source>
+        <target>Roxo Magic</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-magic-teal" xml:space="preserve">
+        <source>Magic Teal</source>
+        <target>Azul Magic</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-magic-yellow" xml:space="preserve">
+        <source>Magic Yellow</source>
+        <target>Amarelo Magic</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-medium-gray" xml:space="preserve">
+        <source>Medium Gray</source>
+        <target>Cinza médio</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-orange" xml:space="preserve">
+        <source>Orange</source>
+        <target>Laranja</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-pink" xml:space="preserve">
+        <source>Pink</source>
+        <target>Rosa</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-purple" xml:space="preserve">
+        <source>Purple</source>
+        <target>Roxo</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-red" xml:space="preserve">
+        <source>Red</source>
+        <target>Vermelho</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-white" xml:space="preserve">
+        <source>White</source>
+        <target>Branco</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="color-yellow" xml:space="preserve">
+        <source>Yellow</source>
+        <target>Amarelo</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="drawing-disabled-title" xml:space="preserve">
+        <source>Drawing disabled.</source>
+        <target>Desenho desativado.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="drawing-enabled-description" xml:space="preserve">
+        <source>Disable with %@.</source>
+        <target>Desative com %@.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="drawing-enabled-title" xml:space="preserve">
+        <source>%@ enabled</source>
+        <target>%@ ativado</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="drawing-modes-click" xml:space="preserve">
+        <source>Click drawing</source>
+        <target>Desenho por clique</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="drawing-modes-cursor" xml:space="preserve">
+        <source>Cursor drawing</source>
+        <target>Desenho pelo cursor</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="drawing-modes-disabled" xml:space="preserve">
+        <source>Disabled</source>
+        <target>Desativado</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="drawing-modes-touch" xml:space="preserve">
+        <source>Touch drawing</source>
+        <target>Desenho por toque</target>
+        <note>Drawing modes</note>
+      </trans-unit>
+      <trans-unit id="export-completed-description" xml:space="preserve">
+        <source>Click here to open exported file.</source>
+        <target>Clique para abrir o arquivo exportado.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="export-completed-title" xml:space="preserve">
+        <source>Export completed</source>
+        <target>Exportação completa</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="export-failed-title" xml:space="preserve">
+        <source>Export failed</source>
+        <target>Exportação falhou</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="gradient-early-light" xml:space="preserve">
+        <source>Early Light</source>
+        <target>Primeira Luz</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="gradient-instant" xml:space="preserve">
+        <source>Instant</source>
+        <target>Instantâneo</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="gradient-magic" xml:space="preserve">
+        <source>Magic</source>
+        <target>Magic</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="gradient-mango" xml:space="preserve">
+        <source>Mango</source>
+        <target>Manga</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="gradient-night-sky" xml:space="preserve">
+        <source>Night Sky</source>
+        <target>Céu Noturno</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="gradient-noir" xml:space="preserve">
+        <source>Noir</source>
+        <target>Noir</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="gradient-sun-goes-down" xml:space="preserve">
+        <source>Sun Goes Down</source>
+        <target>Pôr do Sol</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="hidden-layer-description" xml:space="preserve">
+        <source>The selected layer is hidden. Your strokes will not appear permanently until you show it.</source>
+        <target>A camada selecionada está oculta. Seus traços não irão aparecer permanentemente até que você a exiba.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="hidden-layer-title" xml:space="preserve">
+        <source>Hidden layer</source>
+        <target>Camada oculta</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="layer-add" xml:space="preserve">
+        <source>Add %@</source>
+        <target>Adicionar %@</target>
+        <note>The %@ placeholder is the selected layer mode eg. "Add page"</note>
+      </trans-unit>
+      <trans-unit id="layer-copy" xml:space="preserve">
+        <source>Copy %@</source>
+        <target>Copiar %@</target>
+        <note>The %@ placeholder is the selected layer mode eg. "Copy page"</note>
+      </trans-unit>
+      <trans-unit id="layer-delete" xml:space="preserve">
+        <source>Delete %@</source>
+        <target>Remover %@</target>
+        <note>The %@ placeholder is the selected layer mode eg. "Delete page"</note>
+      </trans-unit>
+      <trans-unit id="layer-hide" xml:space="preserve">
+        <source>Hide %@</source>
+        <target>Ocultar %@</target>
+        <note>The %@ placeholder is the selected layer mode eg. "Hide page"</note>
+      </trans-unit>
+      <trans-unit id="layer-preview" xml:space="preserve">
+        <source>Quick Look</source>
+        <target>Visualização Rápida</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="layer-rename" xml:space="preserve">
+        <source>Rename %@</source>
+        <target>Renomear %@</target>
+        <note>The %@ placeholder is the selected layer mode eg. "Rename page"</note>
+      </trans-unit>
+      <trans-unit id="layer-show" xml:space="preserve">
+        <source>Show %@</source>
+        <target>Mostrar %@</target>
+        <note>The %@ placeholder is the selected layer mode eg. "Show page"</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-advanced" xml:space="preserve">
+        <source>Advanced</source>
+        <target>Avançado</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-copy-prompt" xml:space="preserve">
+        <source>Copy prompt</source>
+        <target>Copiar prompt</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-download-models" xml:space="preserve">
+        <source>Download models</source>
+        <target>Baixar modelos</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-downloading" xml:space="preserve">
+        <source>Downloading</source>
+        <target>Baixando</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-drawing-as-reference" xml:space="preserve">
+        <source>Use drawing as reference</source>
+        <target>Utilizar desenho como base</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-generate-image" xml:space="preserve">
+        <source>Generate image</source>
+        <target>Gerar imagem</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-generating" xml:space="preserve">
+        <source>Generating</source>
+        <target>Gerando</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help" xml:space="preserve">
+        <source>Help</source>
+        <target>Ajuda</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-description-1" xml:space="preserve">
+        <source>To use MagicAI, first download the models as instructed. Once you're set up, you can just request anything into the **prompt** field and press **Generate**.
+ 
+Please note that the first generation after opening up Magic will always take a bit longer to prepare.</source>
+        <target>Para usar o MagicAI, primeiro faça o download dos modelos como orientado. Então, você pode simplesmente pedir qualquer coisa no campo de **prompt** e apertar **Gerar imagem**.
+ 
+Note, no entanto, que a primeira geração após reiniciar o Magic vai demorar um pouco mais para se preparar.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-description-2" xml:space="preserve">
+        <source>MagicAI uses **Stable Diffusion**, a text-to-image deep learning model that can run and generate small images on most powerful computers in a matter of seconds.</source>
+        <target>O MagicAI usa o **Stable Diffusion**, um modelo de transformação de texto para imagem de aprendizagem profunda que pode gerar imagens na maioria dos computadores podersosos em meros segundos.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-description-3" xml:space="preserve">
+        <source>MagicAI uses [Stable Diffusion v2](https://huggingface.co/stabilityai/stable-diffusion-2-base), optimized for CoreML on Apple Silicon Macs only.</source>
+        <target>O MagicAI usa o [Stable Diffusion v2](https://huggingface.co/stabilityai/stable-diffusion-2-base), otimizado para CoreML apenas em  Macs com Apple Silicon.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-description-4" xml:space="preserve">
+        <source>At the moment, it is not possible to use a different AI model with MagicAI.</source>
+        <target>No momento, não é possível usar um modelo de IA diferente com o MagicAI.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-description-5" xml:space="preserve">
+        <source>Because of the complexity of the AI model, MagicAI needs to ensure a good performance on all systems. Stable Diffusion has already been optimized for CoreML, Apple's machine learning platform, but exclusively for Apple Silicon chips, which all provide the required efficiency for running the AI model.</source>
+        <target>Por conta da complexidade do modelo de IA, o MagicAI precisa garantir uma boa performance em todos os sistemas. O Stable Diffusion já foi otimizado para o CoreML, a plataforma de aprendizado de maquina da Apple, mas exclusivamente para Macs com Apple Silicon, que provêm a eficiência necessária para rodar o modelo de IA.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-description-6" xml:space="preserve">
+        <source>In many ways! For example, you can use it as a *magical* drawing reference generator. Or maybe as a helpful assistant in your workflow, to improve your current work: you could draw a stub of a landscape and ask MagicAI to remake it photorealisticly, in the style of an specific artist or in any other way you want.
+
+You could even ask it to generate an object and then copy it with the background removed by right-clicking the layer and selecting **Quick Look**.</source>
+        <target>De várias maneiras. Por exemplo, você pode usá-lo como um gerador de referências para desenhos. Ou talvez como um assistente em seu processo para melhorar o seu trabalho: você pode desenhar um rascunho de algo e pedir para o MagicAI refazê-lo de forma fotorrealista, no estilo de algum artista específico ou de qualquer outro jeito.
+
+Você pode até pedi-lo para gerar um objeto e então copiá-lo isoladamente do fundo clicando com o botão direito do mouse e selecionando **Quick Look**.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-description-7" xml:space="preserve">
+        <source>MagicAI supports adding a base image to your generation in a process known as **inpainting**. To do so, just select **Use drawing as reference** from the MagicAI panel. You can use your own drawing to guide the model into creating an image suited for you. Be thoughtful of your prompt though, since it needs to be sufficiently aligned with the contents of your drawing for the magic to work.</source>
+        <target>O MagicAI suporta adicioanr uma imagem de base à sua geração em um processo conhecido como **pintura interna**. Para fazer isso, selecione **Utilizar desenho como base** do painel do MagicAI. Você poderá então usar o seu próprio desenho para guiar o modelo em criar uma imagem de seu gosto. No entanto, pense bem no prompt – ele precisa ser suficientemente alinhado com o conteúdo do seu desenho para a mágica acontecer.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-description-8" xml:space="preserve">
+        <source>You can use MagicAI up to 15 times for free per month, or up to 30 times per month with an active Magic+ subscription. Magic Unlimited grants you unlimited generations.</source>
+        <target>Você pode usar o MagicAI até 15 vezes gratuitamente ao mês, ou até 30 vezes ao mês com uma assinatura ativa do Magic+. O Magic Unlimited possibilita gerações ilimitadas.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-description-9" xml:space="preserve">
+        <source>**Strength**: when using a drawing as a reference, this value determines the influence of the original drawing in the final result.
+
+**Steps**: the amount of times the image refines through the model pipeline. The more steps, the better the image will be. Please mind the number of actual steps may be automatically adjusted by the system.
+
+**Seed**: the random, unique generator for the initial noise that will be polished into the final generated image.  A pairing of the same seed, amount of steps and prompt will yield the same result.</source>
+        <target>**Força**: ao utilizar um desenho como referência, esse valor determina o quanto do desenho original influencia o resultado final.
+
+**Passos**: a quantidade de vezes que a imagem será refinada pelo modelo. Quanto mais passos, melhor a imagem será. Note que o número real de passos pode ser automaticamente ajustado pelo sistema.
+
+**Semente**: o gerador aleatório para o ruído inicial que será polido para a imagem final. Juntar a mesma semente, quantidade de passos, prompt e desenho-base irão gerar o mesmo resultado.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-description-10" xml:space="preserve">
+        <source>To save your generated images, simply press the **Save image** button in the MagicAI panel once your generation is done. If you choose to discard it instead, your monthly rate will not be affected.</source>
+        <target>Para salvar suas imagens geradas, simplesmente aperte o botão "Salvar imagem" no painel do MagicAI quando sua geração acabar. Se você escolher descartá-la, seu limite mensal não será afetado.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-description-11" xml:space="preserve">
+        <source>To share your MagicAI-generated images, first save them to your project as a new layer, and then export your project.
+     
+**Never claim AI-generated content as your own or use it in harmful ways.**</source>
+        <target>Para compartilhar sua imagem gerada com o MagicAI, primeiro salve-a em uma nova camada, e então exporte o seu projeto.
+     
+**Nunca use conteúdo gerado pelo MagicAI de forma nociva.**</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-section-1" xml:space="preserve">
+        <source>How can I use MagicAI?</source>
+        <target>Como posso usar o MagicAI?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-section-2" xml:space="preserve">
+        <source>How does MagicAI work?</source>
+        <target>Como o MagicAI funciona?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-section-3" xml:space="preserve">
+        <source>What AI model does MagicAI use?</source>
+        <target>Qual modelode IA o MagicAI usa?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-section-4" xml:space="preserve">
+        <source>Can I use a different AI model with MagicAI?</source>
+        <target>Posos usar um modelo de IA diferente com o MagicAI?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-section-5" xml:space="preserve">
+        <source>Why do I need an Apple Silicon Mac for it to work?</source>
+        <target>Por que preciso de um Mac com Apple Silicon para funcionar?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-section-6" xml:space="preserve">
+        <source>How can I use MagicAI in my creative process?</source>
+        <target>Como posso usar o MagicAI no meu processo criativo?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-section-7" xml:space="preserve">
+        <source>How can I use my existing drawing as a reference?</source>
+        <target>Como posso usar meu desenho existente como referência?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-section-8" xml:space="preserve">
+        <source>How many times can I use MagicAI?</source>
+        <target>Quantas vezes posso usar o MagicAI?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-section-9" xml:space="preserve">
+        <source>What do strength, steps and seed mean?</source>
+        <target>O que força, passos e semente significam?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-section-10" xml:space="preserve">
+        <source>How can I save my generated image?</source>
+        <target>Como eu posso salvar a minha imagem gerada?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-help-section-11" xml:space="preserve">
+        <source>How can I share images created with MagicAI?</source>
+        <target>Como eu posso compartilhar imagens criagas com o MagicAI?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-hint-1" xml:space="preserve">
+        <source>Once downloaded, the models will be stored in your device for instant use.</source>
+        <target>Quando instalados, os modelos serão armazenados em seu dispositivo para uso instantâneo.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-hint-2" xml:space="preserve">
+        <source>What are you creating first?</source>
+        <target>O que você vai fazer primeiro?</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-hint-3" xml:space="preserve">
+        <source>Start thinking of good prompts!</source>
+        <target>Comece a pensar em boas descrições!</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-hint-4" xml:space="preserve">
+        <source>Just hold on a little longer...</source>
+        <target>Apenas mais alguns instantes...</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-hint-5" xml:space="preserve">
+        <source>MagicAI works locally with the power of Apple Silicon.</source>
+        <target>O MagicAI funciona localmente com o poder do Apple Silicon.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-hint-6" xml:space="preserve">
+        <source>The first generation takes a little longer to get the inner engines running.</source>
+        <target>A sua primeira geração pode levar mais tempo para aquecer as engrenagens.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-hint-7" xml:space="preserve">
+        <source>MagicAI is great for some good drawing inspiration!</source>
+        <target>O MagicAI é ótimo para a inspiração de desenho ideal!</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-hint-8" xml:space="preserve">
+        <source>The possibilities are endless</source>
+        <target>As possibilidades são infinitas</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-hint-9" xml:space="preserve">
+        <source>Try asking MagicAI to change the style of your drawing</source>
+        <target>Tente pedir ao MagicAI para alterar o estilo de seu desenho</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-new-image" xml:space="preserve">
+        <source>New image</source>
+        <target>Nova imagem</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-onboarding-1" xml:space="preserve">
+        <source>MagicAI lets you create artworks from textual descriptions and drawings</source>
+        <target>O MagicAI permite criar obras de arte a partir de descrições textuais e desenhos</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-onboarding-2" xml:space="preserve">
+        <source>It runs entirely on your Mac, without an Internet connection</source>
+        <target>Ele funciona inteiramente em seu Mac, sem precisar de Internet</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-onboarding-3" xml:space="preserve">
+        <source>To get started, download the diffusion models (2.4GB required)</source>
+        <target>Para iniciar, faça o download dos modelos de difusão (2.4GB)</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-preparing" xml:space="preserve">
+        <source>Preparing</source>
+        <target>Preparando</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-prompt" xml:space="preserve">
+        <source>Prompt</source>
+        <target>Prompt</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-prompt-1" xml:space="preserve">
+        <source>a photo of an astronaut riding a horse on mars</source>
+        <target>uma foto de um astronauta em um cavalo em marte</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-prompt-2" xml:space="preserve">
+        <source>a smiley in the style of Van Gogh</source>
+        <target>um smiley no estilo de Van Gogh</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-prompt-3" xml:space="preserve">
+        <source>a landscape composed by a river, a few trees and a rainbow in the background</source>
+        <target>uma paisagem composta por um rio, algumas árvores e um arco-íris ao fundo</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-prompt-4" xml:space="preserve">
+        <source>a spacecraft made in gold</source>
+        <target>uma espaçonave feita de ouro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-prompt-5" xml:space="preserve">
+        <source>a laptop on a table</source>
+        <target>um laptop em uma mesa</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-prompt-6" xml:space="preserve">
+        <source>the Earth as drawn by a child</source>
+        <target>a Terra, desenhada por uma criança</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-prompt-language-advice" xml:space="preserve">
+        <source>MagicAI produces best results with prompts written in english.</source>
+        <target>O MagicAI garante melhores resultados com prompts escritos em inglês.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-prompt: " xml:space="preserve">
+        <source>magic-ai-prompt: </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-requests-come-back" xml:space="preserve">
+        <source>Come back in</source>
+        <target>Volte em</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-requests-generations-left" xml:space="preserve">
+        <source>generations left</source>
+        <target>gerações restantes</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-requests-ran-out" xml:space="preserve">
+        <source>You've ran out of generations.</source>
+        <target>Suas gerações acabaram.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-requests-refill" xml:space="preserve">
+        <source>Time until refill</source>
+        <target>Tempo até reabastecimento</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-requests-thanks-purchase" xml:space="preserve">
+        <source>Thank you for obtaining %@</source>
+        <target>Obrigado por obter o %@</target>
+        <note>The %@ placeholder is the product name eg. "Magic Unlimited"</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-requests-unlimited-generations" xml:space="preserve">
+        <source>You can now enjoy unlimited image generations.</source>
+        <target>Agora você pode aproveitar gerações ilimitadas.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-requests-upgrade" xml:space="preserve">
+        <source>Upgrade</source>
+        <target>Fazer upgrade</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-save-to-project" xml:space="preserve">
+        <source>Save to project</source>
+        <target>Salvar ao projeto</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-seed" xml:space="preserve">
+        <source>Seed</source>
+        <target>Semente</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-seed: " xml:space="preserve">
+        <source>magic-ai-seed: </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-steps" xml:space="preserve">
+        <source>Steps</source>
+        <target>Passos</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-steps: " xml:space="preserve">
+        <source>magic-ai-steps: </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-strength" xml:space="preserve">
+        <source>Strength</source>
+        <target>Intensidade</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-tagline" xml:space="preserve">
+        <source>imagination, meet AI.</source>
+        <target>você imagina, a IA ajuda.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-unavailable-architecture" xml:space="preserve">
+        <source>MagicAI is only available in Apple Silicon-based Macs due to performance requirements.</source>
+        <target>O MagicAI está disponível exclusivamente em Macs baseados em Apple Silicon devido a requerimentos de performance.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-unavailable-open-settings" xml:space="preserve">
+        <source>Open settings</source>
+        <target>Abrir ajustes</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-unavailable-version" xml:space="preserve">
+        <source>MagicAI requires %@.</source>
+        <target>O MagicAI requer o %@.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-uncompressing" xml:space="preserve">
+        <source>Uncompressing</source>
+        <target>Descompactando</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-warning-active" xml:space="preserve">
+        <source>There's an ongoing generation in another workspace.</source>
+        <target>Há uma geração em curso em outro espaço de trabalho.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-ai-warning-no-prompt" xml:space="preserve">
+        <source>Please write a prompt.</source>
+        <target>Por favor, escreva um prompt.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-plus-section-advanced" xml:space="preserve">
+        <source>Unlock advanced AI options</source>
+        <target>Desbloqueie opções de IA avançadas</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-plus-section-diffusion" xml:space="preserve">
+        <source>30 monthly MagicAI generations</source>
+        <target>30 gerações mensais com o MagicAI</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-plus-section-gradients" xml:space="preserve">
+        <source>Customize gradients</source>
+        <target>Customize degradês</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-plus-section-layers" xml:space="preserve">
+        <source>Create up to 35 layers</source>
+        <target>Create up to 35 layers</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-plus-section-support" xml:space="preserve">
+        <source>Support an indie developer</source>
+        <target>Apoie um desenvolvedor independente</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-plus-section-watermark" xml:space="preserve">
+        <source>Remove watermarks</source>
+        <target>Remova marcas d'água</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-plus-tagline" xml:space="preserve">
+        <source>More for your imagination.</source>
+        <target>Mais para a sua imaginação.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-unlimited-section-badge" xml:space="preserve">
+        <source>Special member badge</source>
+        <target>Emblema especial de membro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-unlimited-section-diffusion" xml:space="preserve">
+        <source>Unlimited MagicAI generations</source>
+        <target>Gerações ilimitadas com o MagicAI</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-unlimited-section-magic-plus" xml:space="preserve">
+        <source>Everything in Magic+</source>
+        <target>Tudo no Magic+</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-unlimited-section-support" xml:space="preserve">
+        <source>Support an indie developer</source>
+        <target>Apoie um desenvolvedor independente</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic-unlimited-tagline" xml:space="preserve">
+        <source>Art has no limits.</source>
+        <target>A arte não tem limite.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="magic.joogps.com" xml:space="preserve">
+        <source>magic.joogps.com</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-about" xml:space="preserve">
+        <source>About %@</source>
+        <target>Sobre o %@</target>
+        <note>The %@ placeholder is the app name eg. "About Magic"</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-brush" xml:space="preserve">
+        <source>Brush</source>
+        <target>Pincel</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-brush-color-options" xml:space="preserve">
+        <source>Color options</source>
+        <target>Opções de cores</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-brush-colors" xml:space="preserve">
+        <source>Colors</source>
+        <target>Cores</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-brush-erase" xml:space="preserve">
+        <source>Erase</source>
+        <target>Apagar</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-brush-grow" xml:space="preserve">
+        <source>Grow</source>
+        <target>Aumentar</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-brush-options" xml:space="preserve">
+        <source>Options</source>
+        <target>Opções</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-brush-shrink" xml:space="preserve">
+        <source>Shrink</source>
+        <target>Diminuir</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-brush-toggle-variation" xml:space="preserve">
+        <source>Toggle size variation</source>
+        <target>Alternar variação de tamanho</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-canvas" xml:space="preserve">
+        <source>Canvas</source>
+        <target>Quadro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-canvas-clear" xml:space="preserve">
+        <source>Clear</source>
+        <target>Limpar</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-canvas-zoom-in" xml:space="preserve">
+        <source>Zoom in</source>
+        <target>Aumentar zoom</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-canvas-zoom-out" xml:space="preserve">
+        <source>Zoom out</source>
+        <target>Diminuir zoom</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-export" xml:space="preserve">
+        <source>Export...</source>
+        <target>Exportar...</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-export-as-format" xml:space="preserve">
+        <source>Export as %@</source>
+        <target>Exportar como %@</target>
+        <note>The %@ placeholder is the export format eg. "Export as .PNG"</note>
+      </trans-unit>
+      <trans-unit id="menu-bar-project-options" xml:space="preserve">
+        <source>Project options</source>
+        <target>Opções de projeto</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="paywall-base" xml:space="preserve">
+        <source>%@, please upgrade</source>
+        <target>%@, faça um upgrade</target>
+        <note>The %@ placeholder %@ will be replaced with the paywall reason eg. "To create extra layers"</note>
+      </trans-unit>
+      <trans-unit id="paywall-generations" xml:space="preserve">
+        <source>To generate more images with MagicAI</source>
+        <target>Para gerar mais imagens com o MagicAI</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="paywall-gradients" xml:space="preserve">
+        <source>To make and save your own gradients</source>
+        <target>Para criar e salvar os seus próprios degradês</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="paywall-layers" xml:space="preserve">
+        <source>To create extra layers</source>
+        <target>Para criar mais camadas</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="paywall-magicai" xml:space="preserve">
+        <source>To customize advanced MagicAI parameters</source>
+        <target>Para customizar parâmetros avançados do MagicAI</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-badge" xml:space="preserve">
+        <source>Badge</source>
+        <target>Emblema</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-canvas-appearance" xml:space="preserve">
+        <source>Canvas appearance</source>
+        <target>Aparência do quadro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-canvas-appearance-dark" xml:space="preserve">
+        <source>Dark</source>
+        <target>Escuro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-canvas-appearance-description" xml:space="preserve">
+        <source>This setting only affects the appearance of the canvas.</source>
+        <target>Essa configuração afeta apenas a aparência do quadro.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-canvas-appearance-light" xml:space="preserve">
+        <source>Light</source>
+        <target>Claro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-canvas-appearance-system" xml:space="preserve">
+        <source>System default</source>
+        <target>Padrão do sistema</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-danger-zone" xml:space="preserve">
+        <source>Danger zone</source>
+        <target>Zona de perigo</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-general" xml:space="preserve">
+        <source>General</source>
+        <target>Geral</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-product" xml:space="preserve">
+        <source>Purchase</source>
+        <target>Compras</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-reset-diffusion" xml:space="preserve">
+        <source>Reset MagicAI models</source>
+        <target>Redefinir modelos do MagicAI</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-reset-diffusion-description" xml:space="preserve">
+        <source>Delete MagicAI generation models.</source>
+        <target>Deletar os modelos de geração do MagicAI.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="preferences-reset-gradients" xml:space="preserve">
+        <source>Reset gradients</source>
+        <target>Redefinir degradês</target>
+        <note>Reset gradients</note>
+      </trans-unit>
+      <trans-unit id="preferences-reset-gradients-description" xml:space="preserve">
+        <source>Reset the saved gradients to their default set.</source>
+        <target>Redefinir os degradês salvos para a configuração inicial.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="product-family-sharing" xml:space="preserve">
+        <source>Supports Family Sharing</source>
+        <target>Suporta Compartilhamento Familiar</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="product-lifetime" xml:space="preserve">
+        <source>Lifetime</source>
+        <target>Vitalício</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="product-pricing" xml:space="preserve">
+        <source>from %@</source>
+        <target>a partir de %@</target>
+        <note>The %@ placeholder is the price eg. "$4"</note>
+      </trans-unit>
+      <trans-unit id="product-purchased-manage-subscriptions" xml:space="preserve">
+        <source>Manage subscriptions</source>
+        <target>Gerenciar assinaturas</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="product-purchased-thank-you" xml:space="preserve">
+        <source>Thank you!</source>
+        <target>Obrigado!</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="product-restore" xml:space="preserve">
+        <source>Restore purchases</source>
+        <target>Restaurar compras</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="product–purchased-active-subscription" xml:space="preserve">
+        <source>You still have an active subscription.</source>
+        <target>Você ainda tem uma assinatura ativa.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="product–purchased-lifetime" xml:space="preserve">
+        <source>You purchased %@ for a lifetime.
+It's now yours to keep.</source>
+        <target>Você obteve o %@ vitalício.
+Agora ele é seu – para sempre.</target>
+        <note>The %@ placeholder is the product name eg. "Magic+"</note>
+      </trans-unit>
+      <trans-unit id="project-background-styles" xml:space="preserve">
+        <source>Background styles</source>
+        <target>Estilos de fundo</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="project-options" xml:space="preserve">
+        <source>Project options</source>
+        <target>Opções de projeto</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="project-pages" xml:space="preserve">
+        <source>Pages</source>
+        <target>Páginas</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="project-pages-description" xml:space="preserve">
+        <source>See your layers as individual pages.</source>
+        <target>Veja suas camadas como páginas individuais.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="redo-title" xml:space="preserve">
+        <source>Redo %@</source>
+        <target>Refazer %@</target>
+        <note>The %@ placeholder is the latest action undone eg. "Redo stroke"</note>
+      </trans-unit>
+      <trans-unit id="size-updated-description" xml:space="preserve">
+        <source>The project's dimensions were automatically fit to the new square format.</source>
+        <target>O projeto foi automaticamente redimensionado para o novo formato quadrado.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="size-updated-title" xml:space="preserve">
+        <source>Project size updated</source>
+        <target>Tamanho de projeto atualizado</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="toolbar-brush-options" xml:space="preserve">
+        <source>Brush options</source>
+        <target>Opções de pincel</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="toolbar-clear" xml:space="preserve">
+        <source>Clear</source>
+        <target>Limpar</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="toolbar-project-options" xml:space="preserve">
+        <source>Project options</source>
+        <target>Opções de projeto</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="toolbar-toggle-sidebar" xml:space="preserve">
+        <source>Toggle sidebar</source>
+        <target>Alternar barra lateral</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="toolbar-zoom" xml:space="preserve">
+        <source>Zoom</source>
+        <target>Zoom</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="toolbar-zoom-canvas" xml:space="preserve">
+        <source>Canvas</source>
+        <target>Quadro</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="toolbar-zoom-canvas-lock" xml:space="preserve">
+        <source>Lock</source>
+        <target>Travar</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="toolbar-zoom-canvas-recenter" xml:space="preserve">
+        <source>Recenter</source>
+        <target>Recentralizar</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="tutorial-1-description" xml:space="preserve">
+        <source>You can click here to begin the tutorial.</source>
+        <target>Você pode clicar aqui para iniciar o tutorial.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="tutorial-1-title" xml:space="preserve">
+        <source>Greetings!</source>
+        <target>Saudações!</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="tutorial-2-description" xml:space="preserve">
+        <source>Do that by selecting one of the options on the toolbar.</source>
+        <target>Faça isto selecionando uma das três opções ao lado, na barra de ferramentas.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="tutorial-2-title" xml:space="preserve">
+        <source>First things first: start drawing!</source>
+        <target>Primeiramente: vamos desenhar!</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="tutorial-3-description-click" xml:space="preserve">
+        <source>Now, try to draw something using your trackpad on the canvas – touch your finger to see its position, click to draw strokes.</source>
+        <target>Agora, tente desehar algo com o seu trackpad no quadro – toque o seu dedo para ver a posição, e clique para fazer traços.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="tutorial-3-description-cursor" xml:space="preserve">
+        <source>Now, try to draw something using your mouse cursor.</source>
+        <target>Agora, tenta desenhar algo com o seu cursor do mouse.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="tutorial-3-description-touch" xml:space="preserve">
+        <source>Now, try to draw something using your trackpad on the canvas.</source>
+        <target>Agora, tente desehar algo com o seu trackpad no quadro.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="tutorial-3-title" xml:space="preserve">
+        <source>Great!</source>
+        <target>Ótimo!</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="tutorial-4-description" xml:space="preserve">
+        <source>When you're ready, disable drawing with %@.</source>
+        <target>Quando estiver pronto, desative o modo de desenho com %@.</target>
+        <note>The %@ placeholder is the keyboard shortcut eg. "⌘D"</note>
+      </trans-unit>
+      <trans-unit id="tutorial-4-title" xml:space="preserve">
+        <source>Stunning!</source>
+        <target>Fantástico!</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="tutorial-complete-description" xml:space="preserve">
+        <source>Feel free to express your creativity.
+Click the paintbrush in the toolbar to adjust other settings your brush.</source>
+        <target>Sinta-se livre para expressar sua criatividade.
+Clique no pincel na barra de tarefas para ajustar outras configurações do seu pincel.</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="tutorial-complete-title" xml:space="preserve">
+        <source>Tutorial complete. That's it!</source>
+        <target>Tutorial completo. É isto!</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="undo-title" xml:space="preserve">
+        <source>Undo %@</source>
+        <target>Desfazer %@</target>
+        <note>The %@ placeholder is the latest action performed eg. "Undo stroke"</note>
+      </trans-unit>
+      <trans-unit id="v%@" xml:space="preserve">
+        <source>v%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="viewing-mode-layers" xml:space="preserve">
+        <source>layer</source>
+        <target>camada</target>
+        <note>Add singular form of viewing mode eg. "layer"</note>
+      </trans-unit>
+      <trans-unit id="viewing-mode-layers-plural" xml:space="preserve">
+        <source>layers</source>
+        <target>camadas</target>
+        <note>If your language includes plural forms, add them here</note>
+      </trans-unit>
+      <trans-unit id="viewing-mode-pages" xml:space="preserve">
+        <source>page</source>
+        <target>página</target>
+        <note>Add singular form of viewing mode eg. "page"</note>
+      </trans-unit>
+      <trans-unit id="viewing-mode-pages-plural" xml:space="preserve">
+        <source>pages</source>
+        <target>páginas</target>
+        <note>If your language includes plural forms, add them here</note>
+      </trans-unit>
+      <trans-unit id="welcome-get-started" xml:space="preserve">
+        <source>Get started</source>
+        <target>Começar</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="welcome-section-ai" xml:space="preserve">
+        <source>Create images with AI</source>
+        <target>Crie imagens com IA</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="welcome-section-customize" xml:space="preserve">
+        <source>Customize your brush</source>
+        <target>Customize o seu pincel</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="welcome-section-draw" xml:space="preserve">
+        <source>Draw with your trackpad</source>
+        <target>Desenhe com o trackpad</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="welcome-section-more" xml:space="preserve">
+        <source>And much more</source>
+        <target>E muito mais</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="welcome-title" xml:space="preserve">
+        <source>Welcome to</source>
+        <target>Boas-vindas ao</target>
+        <note>This is displayed above the Magic logo in the splash screen</note>
+      </trans-unit>
+      <trans-unit id="whats-new" xml:space="preserve">
+        <source>See what's new</source>
+        <target>Veja o que há de novo</target>
+        <note>(No Comment)</note>
+      </trans-unit>
+      <trans-unit id="whats-new-updates" xml:space="preserve">
+        <source>Updates in %@</source>
+        <target>Atualizações do %@</target>
+        <note>The %@ placeholder is the update name eg. Magic 3.0</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Magic/Localization/en.lproj/Localizable.stringsdict" source-language="en" target-language="pt-BR" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300b"/>
+    </header>
+    <body>
+      <trans-unit id="/monthly-subscription:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve">
+        <source>%#@months@</source>
+        <target>%#@months@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/monthly-subscription:dict/months:dict/one:dict/:string" xml:space="preserve">
+        <source>Monthly</source>
+        <target>Mensal</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/monthly-subscription:dict/months:dict/other:dict/:string" xml:space="preserve">
+        <source>%u-month</source>
+        <target>%u meses</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/monthly-subscription:dict/months:dict/zero:dict/:string" xml:space="preserve">
+        <source>Inactive</source>
+        <target>Inativa</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Magic/Localization/Info.plist/en.lproj/InfoPlist.strings" source-language="en" target-language="pt-BR" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Magic</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="magic-project" xml:space="preserve">
+        <source>Magic project</source>
+        <target>Projeto do Magic</target>
+        <note>InfoPlist.strings
+  Magic
+
+  Created by João Gabriel Pozzobon dos Santos on 05/11/21.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
