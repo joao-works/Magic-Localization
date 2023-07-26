@@ -1,16 +1,16 @@
 ## ✨ The Magic Localization Initiative
 Hello! And welcome to the Magic Localization Initiative. This is the community language repository for [Magic](https://magic.joogps.com).
 
-If you'd like to have your language supported by Magic and know how to use Git, feel free to make a pull request to this repositry and add it. Please follow the guidelines too!
+If you'd like to have your language fully supported by Magic or make a correction to the current translations and know how to use Git, feel free to make a pull request to this repository and add it.
 
 ## Supported languages
 - English
 - Portuguese
 
 ### Pending
-- French
-- German
-- Spanish
+To know the pending languages, please check the [issues section](https://github.com/joao-works/Magic-Localization/issues).
+
+But please, follow the guidelines:
 
 ## Guidelines
 
@@ -30,4 +30,6 @@ But hey! Your work is worth a lot. If you contribute to this repository, you'll 
 
 ## Thank you
 
-Thank you for your contribution! It means a lot to me and to the community. If you have any questions, feel free to open an issue or contact me at 
+Thank you for your contribution! It means a lot to me and to the community. If you have any questions, feel free to open an issue or contact me at [joogps@icloud.com](emailto:joogps@icloud.com). I'll be happy to help you out. Have a nice day! And stay safe. 🌈
+
+Sincerely, João.

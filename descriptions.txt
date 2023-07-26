@@ -1,0 +1,72 @@
+// English
+
+Magic – Desenho e IA
+
+---
+
+Desenhe com seu trackpad e IA
+
+---
+
+Update now to Magic 3.0 and experience the power of MagicAI – our new and intuitive drawing assistant – to raise the bar when it comes to your art!
+
+---
+
+Unlock the extraordinary potential of your computer with Magic, a one-of-a-kind drawing app. Harnessing the power of Mac technology, Magic provides you the most delightful and intuitive way to express yourself.
+
+A few of the key features:
+
+• Draw with great precision
+Use built-in or connected trackpads as a Magic drawing portal, or use a conventional drawing method.
+
+• Unleash your art with AI
+Use an amazing built-in AI assistant** powered by Stable Diffusion to improve your own artworks – or create completely new ones.
+
+• Built-in pressure sensitivity
+Use the Force Touch trackpad's pressure-sensitive surface to fine-tune your strokes.
+
+• Customize your brush
+Configure fill styles*, size, pressure and opacity settings to create the perfect brush.
+
+• Use layers and pages
+Use layers* to level up your creations, or turn them into pages and view your project as a sketchbook.
+
+*Full functionality unlocked with Magic+ and Magic Unlimited. Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+** Requires an Apple Silicon Mac
+
+
+// Portuguese
+
+Magic – Desenho e IA
+
+---
+
+Desenhe com seu trackpad e IA
+
+---
+
+Atualize agora para o Magic 3.0 e experimente o poder do MagicAI - nosso novo e intuitivo assistente de desenhos - para elevar o nível de sua arte!
+
+---
+
+Desbloqueie o extraordinário potencial do seu computador com o Magic, um aplicativo de desenho único. Aproveitando o poder da tecnologia do Mac, o Magic oferece a você a maneira mais encantadora e intuitiva de se expressar.
+
+Alguns dos principais recursos:
+
+• Desenhe com grande precisão
+Use trackpads embutidos ou conectados como um portal de desenho mágicos, ou utilize um método de desenho convencional.
+
+• Liberte sua arte com IA
+Utilize um incrível assistente de IA integrado** baseado no Stable Diffusion para aprimorar suas próprias obras de arte ou criar outras completamente novas.
+
+• Sensibilidade à pressão incorporada
+Utilize a superfície sensível à pressão do trackpad Force Touch para ajustar seus traços com precisão.
+
+• Personalize seu pincel
+Configure estilos de preenchimento*, tamanho, pressão e configurações de opacidade para criar o pincel perfeito.
+
+• Use camadas e páginas
+Utilize camadas* para elevar suas criações ou transforme-as em páginas e visualize seu projeto como um caderno de desenho.
+
+*Funcionalidades completas desbloqueadas com Magic+ e Magic Unlimited. Termos de uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+** Requer um Mac com Apple Silicon
