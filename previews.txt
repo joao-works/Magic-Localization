@@ -14,5 +14,4 @@ customize seu pincel
 MagicAI
 expanda as possibilidades
 
-// French
 
