@@ -15,7 +15,7 @@ If you'd like to have your language fully supported by Magic or make a correctio
 - [English](/en.lproj/)
 - [Portuguese](/pt-BR.lproj/)
 
-### Request language
+## Request language
 To request a language, please create an issue on the [issues section](https://github.com/joao-works/Magic-Localization/issues).
 
 If you wish to contribute and add a language, please follow the guidelines below:
@@ -31,7 +31,7 @@ Before you contribute, please make sure that you follow these guidelines:
 
 There is also a [previews.txt](previews.txt) file that contains the text used for the app previews of Magic on the app store – you can optionally add your language to it with the same format as the other languages. Finally, the [descriptions.txt](descriptions.txt) file contains the text used for the app description of Magic – you can also optionally add your language to it with the same format as the other languages, if you wish to see it on the App Store.
 
-## Approval
+### Approval
 
 Once you've made your changes, please make a pull request to this repository. I'll review it and merge it if everything is correct. If you have any questions, feel free to reach out to me. I might require a second opinion from a native speaker of the language you're translating to.
 
