@@ -13,12 +13,10 @@ If you'd like to have your language fully supported by Magic or make a correctio
 
 ## Supported languages
 - [English](/en.lproj/)
-- [Portuguese](/pt-BR.lproj/)
+- [Brazilian Portuguese](/pt-BR.lproj/)
 
 ## Request language
-To request a language, please create an issue on the [issues section](https://github.com/joao-works/Magic-Localization/issues).
-
-If you wish to contribute and add a language, please follow the guidelines below:
+To request a language or report an issue with a translation, please create an issue on the [issues section](https://github.com/joao-works/Magic-Localization/issues). If you wish to contribute and add a language, please follow the guidelines below:
 
 ## Guidelines
 
@@ -37,7 +35,7 @@ Once you've made your changes, please make a pull request to this repository. I'
 
 ## What you get
 
-That's a lot! But wait! It's _your_ work. If you contribute to this repository, you'll get your name in the app's credits associated with the language you contributed with. In addition, I'll personally send you a promo code to Magic Unlimited for 6 months.
+That's a lot! But wait! It's _your_ work. If you contribute to this repository, you'll get your name in the app's credits associated with the language you contributed with. In addition, I'll personally send you a promo code to Magic Unlimited for the duration of 6 months.
 
 ## Thank you
 
