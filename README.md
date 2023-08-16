@@ -4,32 +4,33 @@ Hello! And welcome to the Magic Localization Initiative. This is the community l
 If you'd like to have your language fully supported by Magic or make a correction to the current translations and know how to use Git, feel free to make a pull request to this repository and add it.
 
 ## Supported languages
-- English
-- Portuguese
+- [English](/en.lproj/)
+- [Portuguese](/pt-BR.lproj/)
 
-### Pending
-To know the pending languages, please check the [issues section](https://github.com/joao-works/Magic-Localization/issues).
+### Request language
+To request a language, please create an issue on the [issues section](https://github.com/joao-works/Magic-Localization/issues).
 
-But please, follow the guidelines:
+If you wish to contribute and add a language, please follow the guidelines below:
 
 ## Guidelines
 
 Before you contribute, please make sure that you follow these guidelines:
 
-- First, clone this repository to your local machine.
-- The currently supported languages are stored in the root directory of this repository with filenames `language_code.strings`. Some languages are already translated by a machine and are exclusively pending voluntary verification. These can be found in the [pending](/pending) directory.
-- If you want to verify a pending language, open the file in your computer and check all of the strings for errors – then move the file to the root directory and open a pull request. If you want to chenge an already supported language, just make changes to the file and explain your reasoning in the pull request.
+- First, fork and clone the repository to your local machine.
+- The currently supported languages are stored in the root directory of this repository with filenames `language_code.lproj`. If you want to add a new language, create a new file with the language code and `.lproj` extension. For example, if you want to add Spanish, create a file called `es.lproj`.
+- The .lproj file contains a `Localizable.strings` file. This is the file that contains all the strings used in the app. To translate, just translate the right-hand side of the equal sign. For example, if you want to translate `"hello"` to Spanish, you would change the file to `"hello" = "hola";`. Don't translate the commented text, as it is used for context.
+- There's also a `Localizable.stringsdict` that can be opened with Xcode or edited by hand. Currently, it's only used for support of the pluralization of "n-month" strings (detailing a subscription period). For example, in English, if talking about a single month, "monthly" can be used, but for 6 months, it's "6-month". Feel free to reach out to me regarding this specific translation!
 
-If the language you're adding is not in the `pending` section, you can either create an issue for me to create that file for you or do it yourself in a new pull request – it's up to you!
+There is also a [previews.txt](previews.txt) file that contains the text used for the app previews of Magic on the app store – you can optionally add your language to it with the same format as the other languages. Finally, the [descriptions.txt](descriptions.txt) file contains the text used for the app description of Magic – you can also optionally add your language to it with the same format as the other languages, if you wish to see it on the App Store.
 
-There is also a [previews.txt](previews.txt) file that contains the text used for the app previews of Magic – you can optionally add your language to it with the same format as the other languages – . Finally, the [descriptions.txt](descriptions.txt) file contains the text used for the app description of Magic – you can also optionally add your language to it with the same format as the other languages.
+## Approval
+
+Once you've made your changes, please make a pull request to this repository. I'll review it and merge it if everything is correct. If you have any questions, feel free to reach out to me. I might require a second opinion from a native speaker of the language you're translating to.
 
 ## What you get
 
-But hey! Your work is worth a lot. If you contribute to this repository, you'll get your name in the app's credits associated with the language you contributed with. In addition, I'll personally send you a promo code to Magic+ for 6 months.
+That's a lot! But wait! It's _your_ work. If you contribute to this repository, you'll get your name in the app's credits associated with the language you contributed with. In addition, I'll personally send you a promo code to Magic+ for 6 months.
 
 ## Thank you
 
-Thank you for your contribution! It means a lot to me and to the community. If you have any questions, feel free to open an issue or contact me at [joogps@icloud.com](emailto:joogps@icloud.com). I'll be happy to help you out. Have a nice day! And stay safe. 🌈
-
-Sincerely, João.
+Thank you for your contribution! It means a lot to me, Magic and to the community. If you have questions, feel free to open an issue or contact me at [joogps@icloud.com](emailto:joogps@icloud.com). I'll be happy to help you out. Have a nice day!
