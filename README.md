@@ -1,7 +1,15 @@
-## ✨ The Magic Localization Initiative
+# ✨ The Magic Localization Initiative
+
+<p>
+    <img src="https://img.shields.io/badge/Download Magic-7D28DF.svg" />
+    <a href="https://twitter.com/joogps">
+        <img src="https://img.shields.io/badge/Contact-@joogps-lightgrey.svg?style=social&logo=twitter" alt="Twitter: @joogps" />
+    </a>
+</p>
+
 Hello! And welcome to the Magic Localization Initiative. This is the community language repository for [Magic](https://magic.joogps.com).
 
-If you'd like to have your language fully supported by Magic or make a correction to the current translations and know how to use Git, feel free to make a pull request to this repository and add it.
+If you'd like to have your language fully supported by Magic or make a correction to the current translations (and you know how to use Git), feel free to make add an issue or make a pull request to this repository.
 
 ## Supported languages
 - [English](/en.lproj/)
