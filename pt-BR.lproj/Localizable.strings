@@ -1,0 +1,863 @@
+/* The %@ placeholder is the app's name eg. "About Magic" */
+"about" = "Sobre o %@";
+
+/* (No Comment) */
+"about-acknowledgements" = "Agradecimentos";
+
+/* The %@ placeholder is the developer's name eg. "João Gabriel" */
+"about-made" = "feito com 💜 por %@";
+
+/* (No Comment) */
+"about-privacy-policy" = "Política de privacidade";
+
+/* (No Comment) */
+"about-terms-of-use" = "Termos de uso";
+
+/* (No Comment) */
+"about-twitter" = "Twitter";
+
+/* (No Comment) */
+"about-website" = "Website";
+
+/* (No Comment) */
+"acknowledgements" = "Agradecimentos";
+
+/* The %@ placeholder is the selected layer mode eg. "add page" */
+"action-add" = "adicionar %@";
+
+/* (No Comment) */
+"action-clear" = "limpar quadro";
+
+/* The %@ placeholder is the selected layer mode eg. "delete page" */
+"action-delete" = "remover %@";
+
+/* The %@ placeholder is the selected layer mode eg. "hide page" */
+"action-hide" = "ocultar %@";
+
+/* The %@ placeholder is the selected layer mode eg. "move page" */
+"action-move" = "mover %@";
+
+/* The %@ placeholder is the selected layer mode eg. "show page" */
+"action-show" = "exibir %@";
+
+/* (No Comment) */
+"action-stroke" = "traçar";
+
+/* (No Comment) */
+"alert-confirmation" = "Tem certeza?";
+
+/* (No Comment) */
+"alert-confirmation-confirm" = "Sim";
+
+/* (No Comment) */
+"alert-confirmation-description" = "Essa ação não pode ser desfeita.";
+
+/* (No Comment) */
+"background-style-dots" = "Pontinhos";
+
+/* (No Comment) */
+"background-style-lines" = "Linhas";
+
+/* (No Comment) */
+"background-style-magic" = "Magic";
+
+/* (No Comment) */
+"background-style-scale" = "Escala";
+
+/* (No Comment) */
+"background-style-squares" = "Quadrados";
+
+/* (No Comment) */
+"badge-adjective-1" = "Ilimitado(a)";
+
+/* (No Comment) */
+"badge-adjective-2" = "Talentoso(a)";
+
+/* (No Comment) */
+"badge-adjective-3" = "Inventivo(a)";
+
+/* (No Comment) */
+"badge-adjective-4" = "Supremo(a)";
+
+/* (No Comment) */
+"badge-adjective-5" = "Destemido(a)";
+
+/* (No Comment) */
+"badge-adjective-6" = "Valoroso(a)";
+
+/* (No Comment) */
+"badge-adjective-7" = "Animado(a)";
+
+/* (No Comment) */
+"badge-appearance-dark" = "Escuro";
+
+/* (No Comment) */
+"badge-appearance-light" = "Claro";
+
+/* (No Comment) */
+"badge-gift-description" = "Como presente, aqui está um emblema especial de membro que você pode personalizar e compartilhar";
+
+/* (No Comment) */
+"badge-name-field" = "Nome";
+
+/* (No Comment) */
+"badge-randomize" = "Aleatório";
+
+/* (No Comment) */
+"badge-save" = "Salvar";
+
+/* (No Comment) */
+"badge-save-message" = "Para salvar seu emblema, capture esta janela com ⇧⌘5";
+
+/* (No Comment) */
+"badge-title-1" = "Usuário(a)";
+
+/* (No Comment) */
+"badge-title-2" = "Mestre";
+
+/* (No Comment) */
+"badge-title-3" = "Campeão(ã)";
+
+/* (No Comment) */
+"badge-title-4" = "Querido(a)";
+
+/* (No Comment) */
+"badge-title-5" = "Criador(a)";
+
+/* (No Comment) */
+"badge-title-6" = "Artista";
+
+/* This is for the order of the adjective and noun in badge titles. %1$@ will be replaced with the adjective and %2$@ with the noun. */
+"badge-title-format" = "%2$@ %1$@";
+
+/* (No Comment) */
+"brush-opacity" = "Opacidade";
+
+/* (No Comment) */
+"brush-options" = "Opções de pincel";
+
+/* (No Comment) */
+"brush-size" = "Tamanho";
+
+/* (No Comment) */
+"brush-size-pressure-variation" = "Variação por pressão";
+
+/* (No Comment) */
+"brush-size-size" = "Tamanho do pincel";
+
+/* (No Comment) */
+"brush-style" = "Estilo";
+
+/* (No Comment) */
+"brush-style-color" = "Cor";
+
+/* (No Comment) */
+"brush-style-gradient" = "Degradê";
+
+/* (No Comment) */
+"brush-style-gradient-custom" = "Degradê customizado";
+
+/* (No Comment) */
+"brush-style-gradient-delete" = "Remover degradê";
+
+/* (No Comment) */
+"brush-style-gradient-delete-point" = "Remover ponto";
+
+/* (No Comment) */
+"brush-style-gradient-empty" = "Não há degradês salvos";
+
+/* (No Comment) */
+"brush-style-gradient-instructions" = "pressione + para salvar um degradê";
+
+/* (No Comment) */
+"brush-style-gradient-name" = "Nome";
+
+/* (No Comment) */
+"brush-style-gradient-save" = "Salvar degradê";
+
+/* (No Comment) */
+"brush-style-gradient-saved" = "Salvos";
+
+/* (No Comment) */
+"brush-style-gradient-scale" = "Escala";
+
+/* (No Comment) */
+"brush-style-gradient-style" = "Estilo";
+
+/* (No Comment) */
+"brush-style-gradient-style-interpolated" = "Interpolado";
+
+/* (No Comment) */
+"brush-style-gradient-style-interpolated-description" = "Essa opção faz o final do degradê interpolar para o começo ao terminar.";
+
+/* (No Comment) */
+"brush-style-gradient-style-overlaid" = "Sobreposto";
+
+/* (No Comment) */
+"brush-style-gradient-style-overlaid-description" = "Essa opção faz o degradê se sobrepor ao terminar.";
+
+/* (No Comment) */
+"brush-style-gradient-style-reversible" = "Reversível";
+
+/* (No Comment) */
+"brush-style-gradient-style-reversible-description" = "Essa opção faz o degradê reverter automaticamente ao terminar.";
+
+/* (No Comment) */
+"brush-style-gradient-update" = "Atualizar degradê";
+
+/* (No Comment) */
+"brush-type" = "Tipo";
+
+/* (No Comment) */
+"brush-type-eraser" = "Borracha";
+
+/* (No Comment) */
+"brush-type-pencil" = "Lápis";
+
+/* Canvas frame */
+"canvas-frame-drawing" = "Desenhando";
+
+/* (No Comment) */
+"canvas-frame-press-to-exit" = "Pressione %@ para sair";
+
+/* (No Comment) */
+"cleared-title" = "Quadro limpo.";
+
+/* (No Comment) */
+"color-black" = "Preto";
+
+/* (No Comment) */
+"color-blue" = "Azul";
+
+/* (No Comment) */
+"color-brown" = "Marrom";
+
+/* (No Comment) */
+"color-dark-gray" = "Cinza escuro";
+
+/* (No Comment) */
+"color-darker-gray" = "Cinza mais escuro";
+
+/* (No Comment) */
+"color-green" = "Verde";
+
+/* (No Comment) */
+"color-light-gray" = "Cinza claro";
+
+/* (No Comment) */
+"color-lighter-gray" = "Cinza mais claro";
+
+/* (No Comment) */
+"color-magic-green" = "Verde Magic";
+
+/* (No Comment) */
+"color-magic-pink" = "Rosa Magic";
+
+/* (No Comment) */
+"color-magic-purple" = "Roxo Magic";
+
+/* (No Comment) */
+"color-magic-teal" = "Azul Magic";
+
+/* (No Comment) */
+"color-magic-yellow" = "Amarelo Magic";
+
+/* (No Comment) */
+"color-medium-gray" = "Cinza médio";
+
+/* (No Comment) */
+"color-orange" = "Laranja";
+
+/* (No Comment) */
+"color-pink" = "Rosa";
+
+/* (No Comment) */
+"color-purple" = "Roxo";
+
+/* (No Comment) */
+"color-red" = "Vermelho";
+
+/* (No Comment) */
+"color-white" = "Branco";
+
+/* (No Comment) */
+"color-yellow" = "Amarelo";
+
+"color-custom" = "Cor customizada";
+
+/* (No Comment) */
+"drawing-disabled-title" = "Desenho desativado.";
+
+/* (No Comment) */
+"drawing-enabled-description" = "Desative com %@.";
+
+/* (No Comment) */
+"drawing-enabled-title" = "%@ ativado";
+
+/* (No Comment) */
+"drawing-modes-click" = "Desenho por clique";
+
+/* (No Comment) */
+"drawing-modes-cursor" = "Desenho pelo cursor";
+
+/* (No Comment) */
+"drawing-modes-disabled" = "Desativado";
+
+/* Drawing modes */
+"drawing-modes-touch" = "Desenho por toque";
+
+/* (No Comment) */
+"export-completed-description" = "Clique para abrir o arquivo exportado.";
+
+/* (No Comment) */
+"export-completed-title" = "Exportação completa";
+
+/* (No Comment) */
+"export-failed-title" = "Exportação falhou";
+
+/* (No Comment) */
+"gradient-early-light" = "Primeira Luz";
+
+/* (No Comment) */
+"gradient-instant" = "Instantâneo";
+
+/* (No Comment) */
+"gradient-magic" = "Magic";
+
+/* (No Comment) */
+"gradient-mango" = "Manga";
+
+/* (No Comment) */
+"gradient-night-sky" = "Céu Noturno";
+
+/* (No Comment) */
+"gradient-noir" = "Noir";
+
+/* (No Comment) */
+"gradient-sun-goes-down" = "Pôr do Sol";
+
+/* (No Comment) */
+"hidden-layer-description" = "A camada selecionada está oculta. Seus traços não irão aparecer permanentemente até que você a exiba.";
+
+/* (No Comment) */
+"hidden-layer-title" = "Camada oculta";
+
+/* (No Comment) */
+"layer-add" = "Adicionar %@";
+
+/* The %@ placeholder is the selected layer mode eg. "Copy page" */
+"layer-copy" = "Copiar %@";
+
+/* The %@ placeholder is the selected layer mode eg. "Delete page" */
+"layer-delete" = "Remover %@";
+
+/* The %@ placeholder is the selected layer mode eg. "Hide page" */
+"layer-hide" = "Ocultar %@";
+
+/* (No Comment) */
+"layer-preview" = "Visualização Rápida";
+
+/* The %@ placeholder is the selected layer mode eg. "Rename page" */
+"layer-rename" = "Renomear %@";
+
+/* The %@ placeholder is the selected layer mode eg. "Show page" */
+"layer-show" = "Mostrar %@";
+
+/* (No Comment) */
+"magic-ai-advanced" = "Avançado";
+
+/* (No Comment) */
+"magic-ai-copy-prompt" = "Copiar prompt";
+
+/* (No Comment) */
+"magic-ai-download-models" = "Baixar modelos";
+
+/* (No Comment) */
+"magic-ai-downloading" = "Baixando";
+
+/* (No Comment) */
+"magic-ai-drawing-as-reference" = "Utilizar desenho como base";
+
+/* (No Comment) */
+"magic-ai-generate-image" = "Gerar imagem";
+
+/* (No Comment) */
+"magic-ai-generating" = "Gerando";
+
+/* (No Comment) */
+"magic-ai-help" = "Ajuda";
+
+/* (No Comment) */
+"magic-ai-help-description-1" = "Para usar o MagicAI, primeiro faça o download dos modelos como orientado. Então, você pode simplesmente pedir qualquer coisa no campo de **prompt** e apertar **Gerar imagem**.\n \nNote, no entanto, que a primeira geração após reiniciar o Magic vai demorar um pouco mais para se preparar.";
+
+/* (No Comment) */
+"magic-ai-help-description-2" = "O MagicAI usa o **Stable Diffusion**, um modelo de transformação de texto para imagem de aprendizagem profunda que pode gerar imagens na maioria dos computadores podersosos em meros segundos.";
+
+/* (No Comment) */
+"magic-ai-help-description-3" = "O MagicAI usa o [Stable Diffusion v2](https://huggingface.co/stabilityai/stable-diffusion-2-base), otimizado para CoreML apenas em  Macs com Apple Silicon.";
+
+/* (No Comment) */
+"magic-ai-help-description-4" = "No momento, não é possível usar um modelo de IA diferente com o MagicAI.";
+
+/* (No Comment) */
+"magic-ai-help-description-5" = "Por conta da complexidade do modelo de IA, o MagicAI precisa garantir uma boa performance em todos os sistemas. O Stable Diffusion já foi otimizado para o CoreML, a plataforma de aprendizado de maquina da Apple, mas exclusivamente para Macs com Apple Silicon, que provêm a eficiência necessária para rodar o modelo de IA.";
+
+/* (No Comment) */
+"magic-ai-help-description-6" = "De várias maneiras. Por exemplo, você pode usá-lo como um gerador de referências para desenhos. Ou talvez como um assistente em seu processo para melhorar o seu trabalho: você pode desenhar um rascunho de algo e pedir para o MagicAI refazê-lo de forma fotorrealista, no estilo de algum artista específico ou de qualquer outro jeito.\n\nVocê pode até pedi-lo para gerar um objeto e então copiá-lo isoladamente do fundo clicando com o botão direito do mouse e selecionando **Quick Look**.";
+
+/* (No Comment) */
+"magic-ai-help-description-7" = "O MagicAI suporta adicioanr uma imagem de base à sua geração em um processo conhecido como **pintura interna**. Para fazer isso, selecione **Utilizar desenho como base** do painel do MagicAI. Você poderá então usar o seu próprio desenho para guiar o modelo em criar uma imagem de seu gosto. No entanto, pense bem no prompt – ele precisa ser suficientemente alinhado com o conteúdo do seu desenho para a mágica acontecer.";
+
+/* (No Comment) */
+"magic-ai-help-description-8" = "Você pode usar o MagicAI até 15 vezes gratuitamente ao mês, ou até 30 vezes ao mês com uma assinatura ativa do Magic+. O Magic Unlimited possibilita gerações ilimitadas.";
+
+/* (No Comment) */
+"magic-ai-help-description-9" = "**Força**: ao utilizar um desenho como referência, esse valor determina o quanto do desenho original influencia o resultado final.\n\n**Passos**: a quantidade de vezes que a imagem será refinada pelo modelo. Quanto mais passos, melhor a imagem será. Note que o número real de passos pode ser automaticamente ajustado pelo sistema.\n\n**Semente**: o gerador aleatório para o ruído inicial que será polido para a imagem final. Juntar a mesma semente, quantidade de passos, prompt e desenho-base irão gerar o mesmo resultado.";
+
+/* (No Comment) */
+"magic-ai-help-description-10" = "Para salvar suas imagens geradas, simplesmente aperte o botão \"Salvar imagem\" no painel do MagicAI quando sua geração acabar. Se você escolher descartá-la, seu limite mensal não será afetado.";
+
+/* (No Comment) */
+"magic-ai-help-description-11" = "Para compartilhar sua imagem gerada com o MagicAI, primeiro salve-a em uma nova camada, e então exporte o seu projeto. Projetos com imagens geradas terão uma marca d'água no nível gratuito.\n\n**Nunca use conteúdo gerado pelo MagicAI de forma nociva.**";
+
+/* (No Comment) */
+"magic-ai-help-section-1" = "Como posso usar o MagicAI?";
+
+/* (No Comment) */
+"magic-ai-help-section-2" = "Como o MagicAI funciona?";
+
+/* (No Comment) */
+"magic-ai-help-section-3" = "Qual modelode IA o MagicAI usa?";
+
+/* (No Comment) */
+"magic-ai-help-section-4" = "Posos usar um modelo de IA diferente com o MagicAI?";
+
+/* (No Comment) */
+"magic-ai-help-section-5" = "Por que preciso de um Mac com Apple Silicon para funcionar?";
+
+/* (No Comment) */
+"magic-ai-help-section-6" = "Como posso usar o MagicAI no meu processo criativo?";
+
+/* (No Comment) */
+"magic-ai-help-section-7" = "Como posso usar meu desenho existente como referência?";
+
+/* (No Comment) */
+"magic-ai-help-section-8" = "Quantas vezes posso usar o MagicAI?";
+
+/* (No Comment) */
+"magic-ai-help-section-9" = "O que força, passos e semente significam?";
+
+/* (No Comment) */
+"magic-ai-help-section-10" = "Como eu posso salvar a minha imagem gerada?";
+
+/* (No Comment) */
+"magic-ai-help-section-11" = "Como eu posso compartilhar imagens criagas com o MagicAI?";
+
+/* (No Comment) */
+"magic-ai-hint-1" = "Quando instalados, os modelos serão armazenados em seu dispositivo para uso instantâneo.";
+
+/* (No Comment) */
+"magic-ai-hint-2" = "O que você vai fazer primeiro?";
+
+/* (No Comment) */
+"magic-ai-hint-3" = "Comece a pensar em boas descrições!";
+
+/* (No Comment) */
+"magic-ai-hint-4" = "Apenas mais alguns instantes...";
+
+/* (No Comment) */
+"magic-ai-hint-5" = "O MagicAI funciona localmente com o poder do Apple Silicon.";
+
+/* (No Comment) */
+"magic-ai-hint-6" = "A sua primeira geração pode levar mais tempo para aquecer as engrenagens.";
+
+/* (No Comment) */
+"magic-ai-hint-7" = "O MagicAI é ótimo para a inspiração de desenho ideal!";
+
+/* (No Comment) */
+"magic-ai-hint-8" = "As possibilidades são infinitas";
+
+/* (No Comment) */
+"magic-ai-hint-9" = "Tente pedir ao MagicAI para alterar o estilo de seu desenho";
+
+/* (No Comment) */
+"magic-ai-new-image" = "Nova imagem";
+
+/* (No Comment) */
+"magic-ai-onboarding-1" = "O MagicAI permite criar obras de arte a partir de descrições textuais e desenhos";
+
+/* (No Comment) */
+"magic-ai-onboarding-2" = "Ele funciona inteiramente em seu Mac, sem precisar de Internet";
+
+/* (No Comment) */
+"magic-ai-onboarding-3" = "Para iniciar, faça o download dos modelos de difusão (2.4GB)";
+
+/* (No Comment) */
+"magic-ai-preparing" = "Preparando";
+
+/* (No Comment) */
+"magic-ai-prompt" = "Prompt";
+
+/* (No Comment) */
+"magic-ai-prompt-1" = "uma foto de um astronauta em um cavalo em marte";
+
+/* (No Comment) */
+"magic-ai-prompt-2" = "um smiley no estilo de Van Gogh";
+
+/* (No Comment) */
+"magic-ai-prompt-3" = "uma paisagem composta por um rio, algumas árvores e um arco-íris ao fundo";
+
+/* (No Comment) */
+"magic-ai-prompt-4" = "uma espaçonave feita de ouro";
+
+/* (No Comment) */
+"magic-ai-prompt-5" = "um laptop em uma mesa";
+
+/* (No Comment) */
+"magic-ai-prompt-6" = "a Terra, desenhada por uma criança";
+
+/* (No Comment) */
+"magic-ai-prompt-language-advice" = "O MagicAI garante melhores resultados com prompts escritos em inglês.";
+
+/* (No Comment) */
+"magic-ai-requests-come-back" = "Volte em";
+
+/* (No Comment) */
+"magic-ai-requests-generations-left" = "gerações restantes";
+
+/* (No Comment) */
+"magic-ai-requests-ran-out" = "Suas gerações acabaram.";
+
+/* (No Comment) */
+"magic-ai-requests-refill" = "Tempo até reabastecimento";
+
+/* The %@ placeholder is the product name eg. "Magic Unlimited" */
+"magic-ai-requests-thanks-purchase" = "Obrigado por obter o %@";
+
+/* (No Comment) */
+"magic-ai-requests-unlimited-generations" = "Agora você pode aproveitar gerações ilimitadas.";
+
+/* (No Comment) */
+"magic-ai-requests-upgrade" = "Fazer upgrade";
+
+/* (No Comment) */
+"magic-ai-save-to-project" = "Salvar ao projeto";
+
+/* (No Comment) */
+"magic-ai-seed" = "Semente";
+
+/* (No Comment) */
+"magic-ai-steps" = "Passos";
+
+/* (No Comment) */
+"magic-ai-strength" = "Intensidade";
+
+/* (No Comment) */
+"magic-ai-tagline" = "você imagina, a IA ajuda.";
+
+/* (No Comment) */
+"magic-ai-unavailable-architecture" = "O MagicAI está disponível exclusivamente em Macs baseados em Apple Silicon devido a requerimentos de performance.";
+
+/* (No Comment) */
+"magic-ai-unavailable-open-settings" = "Abrir ajustes";
+
+/* (No Comment) */
+"magic-ai-unavailable-version" = "O MagicAI requer o %@.";
+
+/* (No Comment) */
+"magic-ai-uncompressing" = "Descompactando";
+
+/* (No Comment) */
+"magic-ai-warning-active" = "Há uma geração em curso em outro espaço de trabalho.";
+
+/* (No Comment) */
+"magic-ai-warning-no-prompt" = "Por favor, digite um prompt.";
+
+/* (No Comment) */
+"magic-ai-warning-valid-prompt" = "O prompt que você digitou é invalido – por favor tente novamente.";
+
+/* (No Comment) */
+"magic-ai-warning-error" = "Houve um erro com a última geração – por favor tente novamente.";
+
+/* (No Comment) */
+"magic-plus-section-advanced" = "Desbloqueie opções de IA avançadas";
+
+/* (No Comment) */
+"magic-plus-section-diffusion" = "30 gerações mensais com o MagicAI";
+
+/* (No Comment) */
+"magic-plus-section-gradients" = "Customize degradês";
+
+/* (No Comment) */
+"magic-plus-section-layers" = "Crie até 35 camadas";
+
+/* (No Comment) */
+"magic-plus-section-support" = "Apoie um desenvolvedor independente";
+
+/* (No Comment) */
+"magic-plus-section-watermark" = "Remova marcas d'água";
+
+/* (No Comment) */
+"magic-plus-tagline" = "Mais para a sua imaginação.";
+
+/* (No Comment) */
+"magic-unlimited-section-badge" = "Emblema especial de membro";
+
+/* (No Comment) */
+"magic-unlimited-section-diffusion" = "Gerações ilimitadas com o MagicAI";
+
+/* (No Comment) */
+"magic-unlimited-section-magic-plus" = "Tudo no Magic+";
+
+/* (No Comment) */
+"magic-unlimited-section-support" = "Apoie um desenvolvedor independente";
+
+/* (No Comment) */
+"magic-unlimited-tagline" = "A arte não tem limite.";
+
+/* The %@ placeholder is the app name eg. "About Magic" */
+"menu-bar-about" = "Sobre o %@";
+
+/* (No Comment) */
+"menu-bar-brush" = "Pincel";
+
+/* (No Comment) */
+"menu-bar-brush-color-options" = "Opções de cores";
+
+/* (No Comment) */
+"menu-bar-brush-colors" = "Cores";
+
+/* (No Comment) */
+"menu-bar-brush-erase" = "Apagar";
+
+/* (No Comment) */
+"menu-bar-brush-grow" = "Aumentar";
+
+/* (No Comment) */
+"menu-bar-brush-options" = "Opções";
+
+/* (No Comment) */
+"menu-bar-brush-shrink" = "Diminuir";
+
+/* (No Comment) */
+"menu-bar-brush-toggle-variation" = "Alternar variação de tamanho";
+
+/* (No Comment) */
+"menu-bar-canvas" = "Quadro";
+
+/* (No Comment) */
+"menu-bar-canvas-clear" = "Limpar";
+
+/* (No Comment) */
+"menu-bar-canvas-zoom-in" = "Aumentar zoom";
+
+/* (No Comment) */
+"menu-bar-canvas-zoom-out" = "Diminuir zoom";
+
+/* (No Comment) */
+"menu-bar-export" = "Exportar...";
+
+/* The %@ placeholder is the export format eg. "Export as .PNG" */
+"menu-bar-export-as-format" = "Exportar como %@";
+
+/* (No Comment) */
+"menu-bar-project-options" = "Opções de projeto";
+
+/* The %@ placeholder %@ will be replaced with the paywall reason eg. "To create extra layers" */
+"paywall-base" = "%@, faça um upgrade";
+
+/* (No Comment) */
+"paywall-generations" = "Para gerar mais imagens com o MagicAI";
+
+/* (No Comment) */
+"paywall-gradients" = "Para criar e salvar os seus próprios degradês";
+
+/* (No Comment) */
+"paywall-layers" = "Para criar mais camadas";
+
+/* (No Comment) */
+"paywall-magicai" = "Para customizar parâmetros avançados do MagicAI";
+
+/* (No Comment) */
+"preferences-badge" = "Emblema";
+
+/* (No Comment) */
+"preferences-canvas-appearance" = "Aparência do quadro";
+
+/* (No Comment) */
+"preferences-canvas-appearance-dark" = "Escuro";
+
+/* (No Comment) */
+"preferences-canvas-appearance-description" = "Essa configuração afeta apenas a aparência do quadro.";
+
+/* (No Comment) */
+"preferences-canvas-appearance-light" = "Claro";
+
+/* (No Comment) */
+"preferences-canvas-appearance-system" = "Padrão do sistema";
+
+/* (No Comment) */
+"preferences-danger-zone" = "Zona de perigo";
+
+/* (No Comment) */
+"preferences-general" = "Geral";
+
+/* (No Comment) */
+"preferences-product" = "Compras";
+
+/* (No Comment) */
+"preferences-reset-diffusion" = "Redefinir modelos do MagicAI";
+
+/* (No Comment) */
+"preferences-reset-diffusion-description" = "Deletar os modelos de geração do MagicAI.";
+
+/* Reset gradients */
+"preferences-reset-gradients" = "Redefinir degradês";
+
+/* (No Comment) */
+"preferences-reset-gradients-description" = "Redefinir os degradês salvos para a configuração inicial.";
+
+/* (No Comment) */
+"product-family-sharing" = "Suporta Compartilhamento Familiar";
+
+/* (No Comment) */
+"product-lifetime" = "Vitalício";
+
+/* The %@ placeholder is the price eg. "$4" */
+"product-pricing" = "a partir de %@";
+
+/* (No Comment) */
+"product-purchased-manage-subscriptions" = "Gerenciar assinaturas";
+
+/* (No Comment) */
+"product-purchased-thank-you" = "Obrigado!";
+
+/* (No Comment) */
+"product-restore" = "Restaurar compras";
+
+/* (No Comment) */
+"product–purchased-active-subscription" = "Você ainda tem uma assinatura ativa.";
+
+/* The %@ placeholder is the product name eg. "Magic+" */
+"product–purchased-lifetime" = "Você obteve o %@ vitalício.\nAgora ele é seu – para sempre.";
+
+/* (No Comment) */
+"project-background-styles" = "Estilos de fundo";
+
+/* (No Comment) */
+"project-options" = "Opções de projeto";
+
+/* (No Comment) */
+"project-pages" = "Páginas";
+
+/* (No Comment) */
+"project-pages-description" = "Veja suas camadas como páginas individuais.";
+
+/* The %@ placeholder is the latest action undone eg. "Redo stroke" */
+"redo-title" = "Refazer %@";
+
+/* (No Comment) */
+"size-updated-description" = "O projeto foi automaticamente redimensionado para o novo formato quadrado.";
+
+/* (No Comment) */
+"size-updated-title" = "Tamanho de projeto atualizado";
+
+/* (No Comment) */
+"toolbar-brush-options" = "Opções de pincel";
+
+/* (No Comment) */
+"toolbar-clear" = "Limpar";
+
+/* (No Comment) */
+"toolbar-project-options" = "Opções de projeto";
+
+/* (No Comment) */
+"toolbar-toggle-sidebar" = "Alternar barra lateral";
+
+/* (No Comment) */
+"toolbar-zoom" = "Zoom";
+
+/* (No Comment) */
+"toolbar-zoom-canvas" = "Quadro";
+
+/* (No Comment) */
+"toolbar-zoom-canvas-lock" = "Travar";
+
+/* (No Comment) */
+"toolbar-zoom-canvas-recenter" = "Recentralizar";
+
+/* (No Comment) */
+"tutorial-1-description" = "Você pode clicar aqui para iniciar o tutorial.";
+
+/* (No Comment) */
+"tutorial-1-title" = "Saudações!";
+
+/* (No Comment) */
+"tutorial-2-description" = "Faça isto selecionando uma das três opções ao lado, na barra de ferramentas.";
+
+/* (No Comment) */
+"tutorial-2-title" = "Primeiramente: vamos desenhar!";
+
+/* (No Comment) */
+"tutorial-3-description-click" = "Agora, tente desehar algo com o seu trackpad no quadro – toque o seu dedo para ver a posição, e clique para fazer traços.";
+
+/* (No Comment) */
+"tutorial-3-description-cursor" = "Agora, tenta desenhar algo com o seu cursor do mouse.";
+
+/* (No Comment) */
+"tutorial-3-description-touch" = "Agora, tente desehar algo com o seu trackpad no quadro.";
+
+/* (No Comment) */
+"tutorial-3-title" = "Ótimo!";
+
+/* The %@ placeholder is the keyboard shortcut eg. "⌘D" */
+"tutorial-4-description" = "Quando estiver pronto, desative o modo de desenho com %@.";
+
+/* (No Comment) */
+"tutorial-4-title" = "Fantástico!";
+
+/* (No Comment) */
+"tutorial-complete-description" = "Sinta-se livre para expressar sua criatividade.\nClique no pincel na barra de tarefas para ajustar outras configurações do seu pincel.";
+
+/* (No Comment) */
+"tutorial-complete-title" = "Tutorial completo. É isto!";
+
+/* The %@ placeholder is the latest action performed eg. "Undo stroke" */
+"undo-title" = "Desfazer %@";
+
+/* (No Comment) */
+"viewing-mode-layers" = "camada";
+
+/* If your language includes plural forms, add them here */
+"viewing-mode-layers-plural" = "camadas";
+
+/* (No Comment) */
+"viewing-mode-pages" = "página";
+
+/* If your language includes plural forms, add them here */
+"viewing-mode-pages-plural" = "páginas";
+
+/* (No Comment) */
+"welcome-get-started" = "Começar";
+
+/* (No Comment) */
+"welcome-section-ai" = "Crie imagens com IA";
+
+/* (No Comment) */
+"welcome-section-customize" = "Customize o seu pincel";
+
+/* (No Comment) */
+"welcome-section-draw" = "Desenhe com o trackpad";
+
+/* (No Comment) */
+"welcome-section-more" = "E muito mais";
+
+/* This is displayed above the Magic logo in the splash screen */
+"welcome-title" = "Boas-vindas ao";
+
+/* (No Comment) */
+"whats-new" = "Veja o que há de novo";
+
+/* The %@ placeholder is the update name eg. Magic 3.0 */
+"whats-new-updates" = "Atualizações do %@";
+
