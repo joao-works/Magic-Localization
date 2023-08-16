@@ -37,7 +37,7 @@ Once you've made your changes, please make a pull request to this repository. I'
 
 ## What you get
 
-That's a lot! But wait! It's _your_ work. If you contribute to this repository, you'll get your name in the app's credits associated with the language you contributed with. In addition, I'll personally send you a promo code to Magic+ for 6 months.
+That's a lot! But wait! It's _your_ work. If you contribute to this repository, you'll get your name in the app's credits associated with the language you contributed with. In addition, I'll personally send you a promo code to Magic Unlimited for 6 months.
 
 ## Thank you
 
